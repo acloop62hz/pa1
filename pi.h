@@ -43,5 +43,4 @@ double pi_calc(long int n) {
 
     ////////////////////////////////////////
     return pi_estimate;
-    return pi_estimate;
 }
