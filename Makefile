@@ -1,5 +1,5 @@
 MPICXX = mpic++
-CXXFLAGS = -Wall -O3
+CXXFLAGS = -Wall -O3 -Wunused-variable
 
 SRC = pi.cpp pi.h
 EXEC = pi
